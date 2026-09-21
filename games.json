@@ -1,0 +1,72 @@
+{
+  "featured": "minecraft",
+  "games": [
+    {
+      "id": "Bubble Shooter",
+      "title": "Bubble Shooter",
+      "description": "Shoot Bubbles",
+      "category": "Puzzle",
+      "thumbnail": "assets/thumbnails/bubbleshooter.jpg",
+      "gameUrl": "games/bubble-shooter.swf",
+      "featured": true,
+      "rating": 4.9,
+      "tags": ["sandbox", "building", "multiplayer"]
+    },
+    {
+      "id": "tetris",
+      "title": "Tetris",
+      "description": "Stack blocks and clear lines.",
+      "category": "Puzzle",
+      "thumbnail": "assets/thumbnails/tetris.jpg",
+      "gameUrl": "games/tetris/index.html",
+      "featured": false,
+      "rating": 4.8,
+      "tags": ["puzzle", "classic"]
+    },
+    {
+      "id": "snake",
+      "title": "Snake",
+      "description": "Eat food and grow longer.",
+      "category": "Arcade",
+      "thumbnail": "assets/thumbnails/snake.jpg",
+      "gameUrl": "games/snake/index.html",
+      "featured": false,
+      "rating": 4.6,
+      "tags": ["arcade", "classic"]
+    },
+    {
+      "id": "flappybird",
+      "title": "Flappy Bird",
+      "description": "Fly through pipes.",
+      "category": "Arcade",
+      "thumbnail": "assets/thumbnails/flappybird.jpg",
+      "gameUrl": "games/flappy/index.html",
+      "featured": false,
+      "rating": 4.5,
+      "tags": ["arcade", "skill"]
+    },
+    {
+      "id": "run3",
+      "title": "Run 3",
+      "description": "Run through space tunnels.",
+      "category": "Action",
+      "thumbnail": "assets/thumbnails/run3.jpg",
+      "gameUrl": "games/run3/index.html",
+      "featured": false,
+      "rating": 4.8,
+      "tags": ["runner", "space"]
+    },
+    {
+      "id": "flashgame",
+      "title": "Flash Racing",
+      "description": "Classic Flash racing game.",
+      "category": "Flash",
+      "thumbnail": "assets/thumbnails/flashracing.jpg",
+      "gameUrl": "games/flash/racing.swf",
+      "ruffle": true,
+      "featured": false,
+      "rating": 4.3,
+      "tags": ["flash", "racing"]
+    }
+  ]
+}
